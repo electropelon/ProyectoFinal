@@ -51,7 +51,7 @@ if __name__ == "__main__":
 	perdidas = np.array([])
 
 	menor_cost = 100000
-	epoca = 3000
+	epoca = 300
 	for z in range(epoca):
 		running_loss = 0.0
 		
